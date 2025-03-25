@@ -47,9 +47,9 @@
 
 ## 📊 GitHub Stats 🌱  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akash15-git&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akash15-dev&layout=compact&theme=radical)  
 
-![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akash15-git&show_icons=true&theme=radical)  
+![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akash15-dev&show_icons=true&theme=radical)  
 
 <br>
 
