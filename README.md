@@ -1,7 +1,7 @@
 # Hey there, I'm Akash!✨
 
 
-**Salesforce Developer  |  Trailblazer  |  Agentforce Innovator  |  Tech Enthusiast  |  Growth Mindset**
+**Salesforce Developer  |  Trailblazer |  Agentforce Innovator  |  Tech Enthusiast  |  Growth Mindset**
 
 <br>
 
