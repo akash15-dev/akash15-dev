@@ -56,19 +56,19 @@
 ---
 
 ## 🌍 Connect with Me  
-
+ 
 
 ### 💼 My Services  
 
-[![LinkTree](https://img.shields.io/badge/LinkTree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](your-linktree-url) - [![Topmate](https://img.shields.io/badge/Topmate-FF5722?style=for-the-badge&logo=topmate&logoColor=white)](your-topmate-url)  
+[![LinkTree](https://img.shields.io/badge/LinkTree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](your-linktree-url)  [![Topmate](https://img.shields.io/badge/Topmate-FF5722?style=for-the-badge&logo=topmate&logoColor=white)](your-topmate-url)  
 
 ### 🛠 My Trailhead & Resumes  
 
-[![Trailhead](https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](your-trailhead-url) - [![Salesforce Resume](https://img.shields.io/badge/Salesforce%20Resume-FF9900?style=for-the-badge&logo=salesforce&logoColor=white)](your-salesforce-resume-url) - [![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=read-the-docs&logoColor=white)](your-resume-url)
+[![Trailhead](https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](your-trailhead-url)  [![Salesforce Resume](https://img.shields.io/badge/Salesforce%20Resume-FF9900?style=for-the-badge&logo=salesforce&logoColor=white)](your-salesforce-resume-url)  [![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=read-the-docs&logoColor=white)](your-resume-url)
 
 ### 🔗 My Social Profiles
 
-[![My Website](https://img.shields.io/badge/My%20Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](your-website-url) - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)   - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](your-instagram-url)  - [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](your-facebook-url) - [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](your-telegram-url)  
+[![My Website](https://img.shields.io/badge/My%20Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](your-website-url)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](your-instagram-url)  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](your-facebook-url)  [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](your-telegram-url)  
 
 <br>
 
