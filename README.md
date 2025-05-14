@@ -45,7 +45,7 @@
 
 ---
 
-## 📊 GitHub Stats 🌱  
+## 📊 GitHub Stats 🌱    
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akash15-dev&layout=compact&theme=radical)  
 
