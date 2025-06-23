@@ -13,7 +13,7 @@
 - ⚡ Experienced in **Admin, Flow, Apex, LWC, and Integrations**     
 - 🏆 **4x Salesforce Certified | 5⭐ Ranger | 35x Superbadges**
 - 🤖 **AgentForce Innovator** – Enhancing Salesforce with AI 
-- 🐍 Exploring **Python** for automation and development  
+- 🐍 Exploring **Python** for automation and development    
 - 📊 Interested in **data visualization** using **Power BI & Tableau**  
 - 🏗️ **Currently learning Data Structures & Algorithms (DSA) in Python**  
 - 🤝 Helping freshers grow in the **Salesforce ecosystem**  👉🏻 [Click here](your-topmate-url)  
