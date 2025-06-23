@@ -14,7 +14,7 @@
 - 🏆 **4x Salesforce Certified | 5⭐ Ranger | 35x Superbadges**
 - 🤖 **AgentForce Innovator** – Enhancing Salesforce with AI 
 - 🐍 Exploring **Python** for automation and development  
-- 📊 Interested in **data visualization** using **Power BI & Tableau**
+- 📊 Interested in **data visualization** using **Power BI & Tableau**  
 - 🏗️ **Currently learning Data Structures & Algorithms (DSA) in Python**  
 - 🤝 Helping freshers grow in the **Salesforce ecosystem**  👉🏻 [Click here](your-topmate-url)  
 - 📖 Always learning and experimenting with new technologies
