@@ -7,7 +7,7 @@
     
 --- 
       
-## 👨‍💻 About Me     
+## 👨‍💻 About Me       
       
 - 💻 Passionate about building scalable **Salesforce solutions**
 - ⚡ Experienced in **Admin, Flow, Apex, LWC, and Integrations**   
