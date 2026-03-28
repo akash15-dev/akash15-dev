@@ -11,7 +11,7 @@
       
 - 💻 Passionate about building scalable **Salesforce solutions**
 - ⚡ Experienced in **Admin, Flow, Apex, LWC, and Integrations**     
-- 🏆 **5x Salesforce Certified | 5⭐ Ranger | 35x Superbadges**
+- 🏆 **4x Salesforce Certified | 5⭐ Ranger | 35x Superbadges**
 - 🤖 **AgentForce Innovator** – Enhancing Salesforce with AI 
 - 🐍 Exploring **Python** for automation and development    
 - 📊 Interested in **data visualization** using **Power BI & Tableau**  
