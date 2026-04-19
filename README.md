@@ -29,7 +29,7 @@ My mission: engineer scalable, data-driven, and AI-augmented solutions that help
 - 🔒 Lover of clean design, automation workflows, and technical precision  
 
 <p align="center">
-  <a href="your-topmate-url">
+  <a href="https://topmate.io/akash_sfdc">
     <img src="https://img.shields.io/badge/Book%20a%20Session-FF007F?style=for-the-badge&logo=topmate&logoColor=white" />
   </a>
 </p>
